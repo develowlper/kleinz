@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 :root {
   --heart-color: pink;
   --heart-size: 13vh;
@@ -9,6 +13,9 @@
   padding: 0px 8px;
   top: 0;
   left: 0;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
 }
 
 .back {
@@ -25,7 +32,7 @@
 }
 
 .heart {
-  position: absolute;
+  position: fixed;
   margin: auto;
   top: 0;
   right: 0;
