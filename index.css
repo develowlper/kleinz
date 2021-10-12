@@ -9,7 +9,7 @@
 }
 
 .content {
-  position: fixed;
+  position: absolute;
   padding: 0px 8px;
   top: 0;
   left: 0;
