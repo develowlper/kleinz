@@ -25,7 +25,7 @@
   "homepage": "https://github.com/codesandbox-app/static-template#readme",
   "devDependencies": {
     "prettier": "^2.4.1",
-    "serve": "^11.2.0",
-    "standard-version": "^9.3.1"
+    "serve": "^12.0.1",
+    "standard-version": "^9.3.2"
   }
 }
